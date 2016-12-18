@@ -1,5 +1,5 @@
 {
-    "name": "merged-pooler",
+    "name": "merged-pooler-windows",
     "version": "0.4.0",
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
@@ -13,9 +13,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/UNOMP/node-merged-pool",
+    "homepage": "https://github.com/frndxyz/merged-pooler-windows",
     "bugs": {
-        "url": "https://github.com/UNOMP/node-merged-pool/issues"
+        "url": "https://github.com/frndxyz/merged-pooler-windows/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
@@ -29,7 +29,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/node-merged-pool.git"
+        "url": "https://github.com/frndxyz/merged-pooler-windows.git"
     },
     "dependencies": {        
         "bignum": "*",
