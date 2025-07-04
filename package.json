@@ -13,9 +13,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/frndxyz/merged-pooler-windows",
+    "homepage": "https://github.com/mineblocks/merged-pooler-windows",
     "bugs": {
-        "url": "https://github.com/frndxyz/merged-pooler-windows/issues"
+        "url": "https://github.com/mineblocks/merged-pooler-windows/issues"
     },
     "license": "GPL-2.0",
     "author": "Daniel Beal",
