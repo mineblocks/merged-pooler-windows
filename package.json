@@ -29,10 +29,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/frndxyz/merged-pooler-windows.git"
+        "url": "https://github.com/mineblocks/merged-pooler-windows.git"
     },
     "dependencies": {  
-	"unomp-multi-hashing": "https://github.com/frndxyz/node-multihashing-windows.git",
+	"unomp-multi-hashing": "https://github.com/mineblocks/node-multihashing-windows.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
